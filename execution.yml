@@ -1,1 +1,7 @@
-echo 'my script'
+song:
+  - &name Al
+  - You
+  - can
+  - call
+  - me
+  - *name

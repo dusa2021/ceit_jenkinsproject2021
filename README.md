@@ -1,4 +1,4 @@
-# ceit_jenkinsproject2021
+# ceit_jenkinsproject
 
 echo 'My Initial Project'
 testing 1
